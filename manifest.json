@@ -1,5 +1,5 @@
 {
-  "name": "PBL_ChromeExtension_Web",
+  "name": "PBL_ChromeExtension_App",
   "description": "Our First Google Chrome extension",
   "version": "1.0",
   "manifest_version": 3,
